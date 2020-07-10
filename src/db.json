@@ -1,0 +1,20 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "login": "admin",
+        "password": 1234
+      }
+    ],
+    
+    "posts": [
+      {
+        "id": 1,
+        "title": "Название поста",
+        "description": "Текст",
+        "createdAt": "2019-07-09",
+        "updateAt": "2019-07-09"
+      }
+    ]
+
+  }
